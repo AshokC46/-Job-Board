@@ -1,0 +1,16 @@
+
+.card-link {
+    text-decoration: none;
+  }
+  .card-link:hover {
+    text-decoration: none;
+  }
+  .nav-link {
+    color: white;
+    font-weight: bold;
+  }
+  .home-page {
+    background: linear-gradient(135deg, #dbeafe, #fef9c3);
+    min-height: 100vh;
+  }
+  
