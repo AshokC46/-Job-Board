@@ -73,8 +73,7 @@ The Job Board & Resume Builder is designed to help **job seekers** streamline th
 
 ## 📷 Screenshots
 
-> _(Add screenshots or screen recordings here for visual reference)_
-
+> _![Image](https://github.com/user-attachments/assets/c618a1df-50cb-4735-9a57-c3bfba212ff2)
 ---
 
 ## ⚙️ Installation
